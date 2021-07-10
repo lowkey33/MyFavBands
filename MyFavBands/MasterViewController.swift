@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  MyFavBands
 //
-//  Created by Charles Konkol on 9/15/19.
+//  Created by Elijah Hettler on 7/10/21.
 //  Copyright © 2019 Charles Konkol. All rights reserved.
 //
 
